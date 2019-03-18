@@ -1,0 +1,6 @@
+Number of Raises: 35
+Overall Value: $ 12,441,487
+Average Raise: $ 355,471
+Median Raise: $ 200,000
+Total Investors: 13242
+Unique Investors: 3972

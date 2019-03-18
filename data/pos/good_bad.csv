@@ -1,0 +1,11 @@
+name,good,da,bad,da2
+service,9,NOUN,3.0,NOUN
+food,9,NOUN,1.0,NOUN
+server,4,NOUN,3.0,NOUN
+experience,4,NOUN,1.0,NOUN
+location,3,NOUN,1.0,NOUN
+place,3,NOUN,1.0,NOUN
+family,3,NOUN,3.0,NOUN
+customer,3,NOUN,0.0,0
+day,3,NOUN,0.0,0
+party,3,NOUN,0.0,0

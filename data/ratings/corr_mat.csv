@@ -1,0 +1,4 @@
+index,0,1,2,3,4,5,6,7,8
+Correlation,Firm Value,Work Life Balance,Employee Culture,Career Opportunities,Compensation,Management Culture,Management Competence,Upper Management Competence,Customer Satisfaction
+Firm Value,1.0,0.11,0.35,0.29,0.33,0.3,0.26,0.15,0.08
+Customer Satisfaction,0.08,0.36,0.44,0.4,0.36,0.27,0.31,0.26,1.0

@@ -1,0 +1,46 @@
+Type,Dimension
+Assets,
+Current assets,Current Assets
+Cash,Current Assets
+Cash and cash equivalents,Current Assets
+Short-term investments,Current Assets
+Total cash,Current Assets
+Receivables,Current Assets
+Inventories,Current Assets
+Deferred income taxes,Current Assets
+Prepaid expenses,Current Assets
+Other current assets,Current Assets
+Total current assets,Current Assets
+Non-current assets,Non-current Assets
+"Property, plant and equipment",Non-current Assets
+"Gross property, plant and equipment",Non-current Assets
+Accumulated Depreciation,Non-current Assets
+"Net property, plant and equipment",Non-current Assets
+Equity and other investments,Non-current Assets
+Goodwill,Non-current Assets
+Other long-term assets,Non-current Assets
+Total non-current assets,Non-current Assets
+Total assets,
+Liabilities and stockholders' equity,
+Liabilities,
+Current liabilities,Current Liabilities
+Capital leases,Current Liabilities
+Accounts payable,Current Liabilities
+Taxes payable,Current Liabilities
+Accrued liabilities,Current Liabilities
+Other current liabilities,Current Liabilities
+Total current liabilities,
+Non-current liabilities,Non-current Liabilities
+Capital leases,Non-current Liabilities
+Deferred taxes liabilities,Non-current Liabilities
+Other long-term liabilities,Non-current Liabilities
+Total non-current liabilities,Non-current Liabilities
+Total liabilities,
+Stockholders' equity,Equity
+Common stock,Equity
+Additional paid-in capital,Equity
+Retained earnings,Equity
+Treasury stock,Equity
+Accumulated other comprehensive income,Equity
+Total stockholders' equity,Equity
+Total liabilities and stockholders' equity,

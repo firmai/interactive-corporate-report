@@ -1,0 +1,628 @@
+[
+    {
+        "XNAS:cake": {
+            "AnalystRating": "Five-Year Growth Forecast Industry Avg 12.00% \u2014 Average Rating Last Month Industry Avg S&amp;P; 500 Avg 3.00 \u2014 \u2014 \u2014 Rating Scale: 5=Buy, 1=Sell Total Number of Analysts: Buy 0 Outperform 0 Hold 3 Underperform 0 Sell 0", 
+            "AnnualEarningEst": [
+                {
+                    "High": [
+                        "2.80", 
+                        "-14.4", 
+                        "\u00a0", 
+                        "3.00", 
+                        "7.1"
+                    ]
+                }, 
+                {
+                    "Low": [
+                        "2.69", 
+                        "-17.7", 
+                        "\u00a0", 
+                        "2.91", 
+                        "8.2"
+                    ]
+                }, 
+                {
+                    "Mean": [
+                        "2.73", 
+                        "-16.5", 
+                        "\u00a0", 
+                        "2.94", 
+                        "7.7"
+                    ]
+                }, 
+                {
+                    "Median": [
+                        "2.71", 
+                        "-17.1", 
+                        "\u00a0", 
+                        "2.92", 
+                        "7.7"
+                    ]
+                }, 
+                {
+                    "30 Days Ago": [
+                        "2.73", 
+                        "-16.5", 
+                        "\u00a0", 
+                        "2.91", 
+                        "6.6"
+                    ]
+                }, 
+                {
+                    "60 Days Ago": [
+                        "2.78", 
+                        "-15.0", 
+                        "\u00a0", 
+                        "2.98", 
+                        "7.2"
+                    ]
+                }, 
+                {
+                    "90 Days Ago": [
+                        "2.77", 
+                        "-15.3", 
+                        "\u00a0", 
+                        "2.98", 
+                        "7.6"
+                    ]
+                }, 
+                {
+                    "Number of Estimates": [
+                        "", 
+                        "4", 
+                        "\u00a0", 
+                        "", 
+                        "1"
+                    ]
+                }
+            ], 
+            "Auditor": "PricewaterhouseCoopers LLP", 
+            "BoardDirectors": "David Overton, 71\nChairman of the Board and Chief Executive Off...Since: 1992\nDavid Overton has served as our Chairman of the Board and Chief Executive Officer since our incorporation in 1992. He co-founded the Company with his parents, E...\nJerome I. Kransdorf, 78\nLead Independent DirectorSince: 1997\nJerome I. Kransdorf has more than 45 years of investment management experience. Mr. Kransdorf retired in September 2014 as President of JaK Direct, a division o...\nDavid B. Pittaway, 65\nIndependent DirectorSince: 2009\nDavid B. Pittaway is Senior Managing Director, Senior Vice President and Secretary of Castle Harlan, Inc., a private equity firm. He has been with Castle Harlan...\nLaurence B. Mindel, 79\nIndependent DirectorSince: 2012\nLaurence B. Mindel has 44 years of experience as a restaurant creator, developer and operator and is currently a Managing Partner of Poggio Trattoria, an award-...\nEdie A. Garritano-Ames, 50\nIndependent DirectorSince: 2016\nOn December 8, 2016, the Board of Directors of The Cheesecake Factory Incorporated subsequently approved, the appointment of Edie A. Garritano-Ames effective, D...\nAlexander L. Cappello, 61\nIndependent DirectorSince: 2008\nAlexander L. Cappello has led several public and private companies over the past 43 years, including Cappello Group, Inc. a global merchant bank affiliated with...\nHerbert Simon, 82\nIndependent DirectorSince: 2011\nHerbert Simon is the Chairman Emeritus of the board of Indianapolis-based Simon Property Group, Inc., a member of the S&P; 500 and the largest U.S. publicly-trad...", 
+            "CIK": "887596", 
+            "Cfinancials": [
+                {
+                    "Revenue": [
+                        "2,261", 
+                        "2,276", 
+                        "2,101", 
+                        "\u00a0", 
+                        "572", 
+                        "603"
+                    ]
+                }, 
+                {
+                    "Operating Income": [
+                        "163", 
+                        "201", 
+                        "171", 
+                        "\u00a0", 
+                        "34", 
+                        "47"
+                    ]
+                }, 
+                {
+                    "Net Income": [
+                        "157", 
+                        "139", 
+                        "117", 
+                        "\u00a0", 
+                        "58", 
+                        "32"
+                    ]
+                }, 
+                {
+                    "Earnings Per Share": [
+                        "3.27", 
+                        "2.83", 
+                        "2.30", 
+                        "\u00a0", 
+                        "1.22", 
+                        "0.67"
+                    ]
+                }, 
+                {
+                    "Diluted Average Shares": [
+                        "48", 
+                        "49", 
+                        "51", 
+                        "\u00a0", 
+                        "47", 
+                        "49"
+                    ]
+                }, 
+                {
+                    "Current Assets": [
+                        "209", 
+                        "221", 
+                        "225", 
+                        "\u00a0", 
+                        "209", 
+                        "221"
+                    ]
+                }, 
+                {
+                    "Non Current Assets": [
+                        "1,124", 
+                        "1,072", 
+                        "1,008", 
+                        "\u00a0", 
+                        "1,124", 
+                        "1,072"
+                    ]
+                }, 
+                {
+                    "Total Assets": [
+                        "1,333", 
+                        "1,293", 
+                        "1,233", 
+                        "\u00a0", 
+                        "1,333", 
+                        "1,293"
+                    ]
+                }, 
+                {
+                    "Current Liabilities": [
+                        "398", 
+                        "377", 
+                        "350", 
+                        "\u00a0", 
+                        "398", 
+                        "377"
+                    ]
+                }, 
+                {
+                    "Total Liabilities": [
+                        "\u2014", 
+                        "\u2014", 
+                        "\u2014", 
+                        "\u00a0", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Stockholders' Equity": [
+                        "\n614\t\t\t\t", 
+                        "\n603\t\t\t\t", 
+                        "\n589\t\t\t\t", 
+                        "\u00a0", 
+                        "\n614                ", 
+                        "\n603                "
+                    ]
+                }, 
+                {
+                    "Cash From Operations": [
+                        "239", 
+                        "303", 
+                        "235", 
+                        "\u00a0", 
+                        "85", 
+                        "86"
+                    ]
+                }, 
+                {
+                    "Capital Expenditures": [
+                        "-122", 
+                        "-117", 
+                        "-156", 
+                        "\u00a0", 
+                        "-48", 
+                        "-46"
+                    ]
+                }, 
+                {
+                    "Free Cash Flow": [
+                        "116", 
+                        "185", 
+                        "80", 
+                        "\u00a0", 
+                        "36", 
+                        "40"
+                    ]
+                }
+            ], 
+            "Committees": "Audit Committee\u00a0CAKE\nName\nTitle\nDavid B. Pittaway\nIndependent Director, Chairman Of Audit Committee\nAlexander L. Cappello\nIndependent Director, Chairman Of Compensation Committee And Member Of Audit Committee\nJerome I. Kransdorf\nLead Independent Director, Chairman Of Corporate Governance And Nominating Committee, Member Of Audit Committee And Member Of Compensation Committee\nCompensation Committee\u00a0CAKE\nName\nTitle\nAlexander L. Cappello\nIndependent Director, Chairman Of Compensation Committee And Member Of Audit Committee\nHerbert Simon\nIndependent Director, Member Of Compensation Committee And Member Of Corporate Governance And Nominating Committee\nJerome I. Kransdorf\nLead Independent Director, Chairman Of Corporate Governance And Nominating Committee, Member Of Audit Committee And Member Of Compensation Committee\nLaurence B. Mindel\nIndependent Director, Member Of Compensation Committee And Member Of Corporate Governance And Nominating Committee\nCorporate Governance And Nominating Committee\u00a0CAKE\nName\nTitle\nJerome I. Kransdorf\nLead Independent Director, Chairman Of Corporate Governance And Nominating Committee, Member Of Audit Committee And Member Of Compensation Committee\nHerbert Simon\nIndependent Director, Member Of Compensation Committee And Member Of Corporate Governance And Nominating Committee\nEdie A. Garritano-ames\nIndependent Director And Member Of Corporate Governance And Nominating Committee\nLaurence B. Mindel\nIndependent Director, Member Of Compensation Committee And Member Of Corporate Governance And Nominating Committee", 
+            "Competitors": [
+                {
+                    "Cheesecake Factory Inc": [
+                        "2,435", 
+                        "157", 
+                        "1.1", 
+                        "4.0", 
+                        "16.2", 
+                        "2.1", 
+                        "4.6", 
+                        "8.2", 
+                        "\u2014", 
+                        "0.0"
+                    ]
+                }, 
+                {
+                    "McDonald's Corp (USD)": [
+                        "127,196", 
+                        "5,192", 
+                        "5.8", 
+                        "\u2014", 
+                        "25.4", 
+                        "2.4", 
+                        "-3.7", 
+                        "30.3", 
+                        "10.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Starbucks Corp (USD)": [
+                        "83,633", 
+                        "4,383", 
+                        "3.8", 
+                        "14.5", 
+                        "19.6", 
+                        "1.8", 
+                        "11.0", 
+                        "17.4", 
+                        "47.7", 
+                        "0.8"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "32,905", 
+                        "1,161", 
+                        "1.1", 
+                        "11.2", 
+                        "20.9", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "32,905", 
+                        "1,161", 
+                        "1.1", 
+                        "11.1", 
+                        "20.6", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Yum Brands Inc (USD)": [
+                        "28,567", 
+                        "1,340", 
+                        "5.3", 
+                        "\u2014", 
+                        "23.1", 
+                        "1.4", 
+                        "-15.5", 
+                        "23.2", 
+                        "9.4", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Yum China Holdings Inc (USD)": [
+                        "15,568", 
+                        "403", 
+                        "2.2", 
+                        "5.6", 
+                        "39.9", 
+                        "0.5", 
+                        "\u2014", 
+                        "9.9", 
+                        "\u2014", 
+                        "0.0"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International Inc (USD)": [
+                        "13,257", 
+                        "648", 
+                        "5.7", 
+                        "6.0", 
+                        "21.7", 
+                        "1.9", 
+                        "18.3", 
+                        "40.1", 
+                        "3.2", 
+                        "5.4"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International LP (USD)": [
+                        "11,956", 
+                        "1,233", 
+                        "5.1", 
+                        "2.6", 
+                        "17.7", 
+                        "1.9", 
+                        "\u2014", 
+                        "39.7", 
+                        "3.0", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "Darden Restaurants Inc (USD)": [
+                        "11,111", 
+                        "545", 
+                        "1.4", 
+                        "5.2", 
+                        "20.4", 
+                        "2.8", 
+                        "6.1", 
+                        "6.8", 
+                        "16.4", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "11,022", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.4", 
+                        "0.7", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "11,022", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.4", 
+                        "2.1", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Domino's Pizza Inc (USD)": [
+                        "10,258", 
+                        "277", 
+                        "4.1", 
+                        "\u2014", 
+                        "40.9", 
+                        "0.8", 
+                        "10.7", 
+                        "18.3", 
+                        "4.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Chipotle Mexican Grill Inc (USD)": [
+                        "9,446", 
+                        "176", 
+                        "2.2", 
+                        "6.9", 
+                        "55.0", 
+                        "\u2014", 
+                        "10.4", 
+                        "16.8", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Aramark (USD)": [
+                        "9,344", 
+                        "540", 
+                        "0.6", 
+                        "3.4", 
+                        "17.7", 
+                        "1.1", 
+                        "1.6", 
+                        "4.4", 
+                        "2.8", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "McDonald's Holdings Co (Japan) Ltd (USD,JPY)": [
+                        "6,432", 
+                        "24,024", 
+                        "2.7", 
+                        "5.3", 
+                        "28.5", 
+                        "0.6", 
+                        "-3.0", 
+                        "3.1", 
+                        "137.1", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,141", 
+                        "6,881", 
+                        "2.6", 
+                        "8.4", 
+                        "47.2", 
+                        "\u2014", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,141", 
+                        "6,881", 
+                        "2.4", 
+                        "7.8", 
+                        "43.9", 
+                        "0.8", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,880", 
+                        "5,415", 
+                        "3.6", 
+                        "4.4", 
+                        "36.9", 
+                        "0.7", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.2", 
+                        "3.9", 
+                        "32.7", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.8", 
+                        "35.2", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.0", 
+                        "33.5", 
+                        "\u2014", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Dunkin' Brands Group Inc (USD)": [
+                        "5,013", 
+                        "350", 
+                        "6.5", 
+                        "593.6", 
+                        "16.0", 
+                        "2.2", 
+                        "5.5", 
+                        "44.5", 
+                        "4.2", 
+                        "360.3"
+                    ]
+                }, 
+                {
+                    "Texas Roadhouse Inc (USD)": [
+                        "4,481", 
+                        "131", 
+                        "2.0", 
+                        "5.3", 
+                        "34.1", 
+                        "1.4", 
+                        "11.9", 
+                        "8.3", 
+                        "96.0", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "The Wendy's Co (USD)": [
+                        "4,240", 
+                        "194", 
+                        "3.6", 
+                        "7.4", 
+                        "22.9", 
+                        "1.7", 
+                        "-13.4", 
+                        "13.2", 
+                        "1.9", 
+                        "4.8"
+                    ]
+                }, 
+                {
+                    "SSP Group PLC (USD,GBP)": [
+                        "4,165", 
+                        "92", 
+                        "1.2", 
+                        "7.1", 
+                        "31.0", 
+                        "1.3", 
+                        "6.5", 
+                        "5.0", 
+                        "13.6", 
+                        "1.0"
+                    ]
+                }, 
+                {
+                    "Industry Average": [
+                        "4,559", 
+                        "756", 
+                        "2.8", 
+                        "31.0", 
+                        "23.1", 
+                        "1.8", 
+                        "14.4", 
+                        "-33.9", 
+                        "136.8", 
+                        "9.4"
+                    ]
+                }
+            ], 
+            "CurrentCalculation": "Price/Earnings 16.2 22.9 20.8 21.8 Price/Book 4.0 30.7 3.1 4.2 Price/Sales 1.1 2.8 2.2 1.2 Price/Cash Flow 10.7 17.8 13.6 10.4 Dividend Yield % 2.1 1.8 2.0 1.5 Price/Fair Value \u00a0Premium \u2014 \u2014 \u2014", 
+            "DayAvgVol": "1.0Mil", 
+            "DirInvestment": "No", 
+            "Employees": "39,100", 
+            "Executives": "David Overton/Chairman of the Board and Chief Executive Officer; Interim President, Bakery Cheryl M. Slomann/Senior Vice President, Controller and Chief Accounting Officer David M. Gordon/President Debby R. Zurzolo/Executive Vice President, Secretary and General Counsel Max S. Byfuglin/President of The Cheesecake Factory Bakery Incorporated Matthew E. Clark/Executive Vice President and Chief Financial Officer", 
+            "FiscalYearEnds": "2019-01-02", 
+            "ForwardCalculation": "Forward Price/Earnings 19.3 \u2014 16.9 PEG Ratio 1.6 \u2014 \u2014 PEG Payback (Yrs) 9.6 \u2014 \u2014", 
+            "FullTime": "\u2014", 
+            "ISIC": "Restaurants and Mobile Food Service Activities (5610)", 
+            "Industry": "Restaurants", 
+            "Keystats": "\u00a0 Stock Ind Avg \u00a0 \u00a0 Relative to Industry Price/Earnings TTM 16.2 22.9 \u00a0 Price/Book 4.0 30.7 \u00a0 Price/Sales TTM 1.1 2.8 \u00a0 Rev Growth (3 Yr Avg) 4.6 1.0 \u00a0 Net Income Growth (3 Yr Avg) 15.8 10.5 \u00a0 Operating Margin % TTM 7.2 20.3 \u00a0 Net Margin % TTM 7.0 11.7 \u00a0 ROA TTM 12.0 11.5 \u00a0 ROE TTM 25.9 162.0 \u00a0 Debt/Equity \u2014 9.4 \u00a0 \u2013 Avg + \u2013 Avg +", 
+            "LegalAdvisor": "Sheppard, Mullin, Richter, &amp; Hampton LLP", 
+            "MarketCap": "2.4Bil", 
+            "NAICS": "\u2014 (722511)", 
+            "NetIncome": "0.2Bil", 
+            "PartTime": "\u2014", 
+            "SIC": "Restaurants, Licensed (9211) Eating Places (5812)", 
+            "Sales": "2.3Bil", 
+            "Sector": "Consumer Cyclical", 
+            "StockSale": "\u00a0 Small Core", 
+            "YearEstablished": "\u2014"
+        }
+    }
+]

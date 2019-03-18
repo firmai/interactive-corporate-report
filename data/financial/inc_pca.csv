@@ -1,0 +1,23 @@
+Type,Dimension
+Revenue,Income
+Cost of revenue,Income
+Gross profit,Income
+Operating expenses,Income
+"Sales, General and administrative",Income
+Other operating expenses,Income
+Total operating expenses,Income
+Operating income,Income
+Other income (expense),Income
+Income before taxes,Income
+Provision for income taxes,Income
+Net income from continuing operations,Income
+Net income,Income
+Net income available to common shareholders,Income
+Earnings per share,Income
+Basic,Income
+Diluted,Income
+Weighted average shares outstanding,Income
+Basic,Income
+Diluted,Income
+EBITDA,Income
+adj_close,Income

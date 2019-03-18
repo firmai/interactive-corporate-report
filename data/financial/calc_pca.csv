@@ -1,0 +1,86 @@
+Type,Dimension
+Revenue USD Mil,
+Gross Margin %,
+Operating Income USD Mil,
+Operating Margin %,
+Net Income USD Mil,
+Earnings Per Share USD,
+Dividends USD,
+Payout Ratio % *,
+Shares Mil,
+Book Value Per Share * USD,
+Operating Cash Flow USD Mil,
+Cap Spending USD Mil,
+Free Cash Flow USD Mil,
+Free Cash Flow Per Share * USD,
+Working Capital USD Mil,
+Revenue,profitability
+COGS,profitability
+Gross Margin,profitability
+SG&A,profitability
+R&D,profitability
+Other,profitability
+Operating Margin,profitability
+Net Int Inc & Other,profitability
+EBT Margin,profitability
+Tax Rate %,solvency
+Net Margin %,solvency
+Asset Turnover (Average),solvency
+Return on Assets %,efficiency
+Financial Leverage (Average),solvency
+Return on Equity %,solvency
+Return on Invested Capital %,solvency
+Interest Coverage,solvency
+Year over Year,
+3-Year Average,
+5-Year Average,
+10-Year Average,
+Year over Year,
+3-Year Average,
+5-Year Average,
+10-Year Average,
+Year over Year,
+3-Year Average,
+5-Year Average,
+10-Year Average,
+Year over Year,
+3-Year Average,
+5-Year Average,
+10-Year Average,
+Operating Cash Flow Growth % YOY,liquidity
+Free Cash Flow Growth % YOY,liquidity
+Cap Ex as a % of Sales,liquidity
+Free Cash Flow/Sales %,liquidity
+Free Cash Flow/Net Income,liquidity
+Cash & Short-Term Investments,liquidity
+Accounts Receivable,
+Inventory,
+Other Current Assets,
+Total Current Assets,
+Net PP&E,
+Intangibles,
+Other Long-Term Assets,
+Total Assets,
+Accounts Payable,
+Short-Term Debt,
+Taxes Payable,
+Accrued Liabilities,
+Other Short-Term Liabilities,
+Total Current Liabilities,
+Long-Term Debt,
+Other Long-Term Liabilities,
+Total Liabilities,
+Total Stockholders' Equity,
+Total Liabilities & Equity,
+Current Ratio,liquidity
+Quick Ratio,liquidity
+Financial Leverage,solvency
+Debt/Equity,solvency
+Days Sales Outstanding,efficiency
+Days Inventory,efficiency
+Payables Period,efficiency
+Cash Conversion Cycle,efficiency
+Receivables Turnover,efficiency
+Inventory Turnover,efficiency
+Fixed Assets Turnover,efficiency
+Asset Turnover,efficiency

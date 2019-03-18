@@ -1,0 +1,487 @@
+[
+    {
+        "XNAS:rrgb": {
+            "AnalystRating": "Five-Year Growth Forecast Industry Avg \u9225\ufffd% \u2014 Average Rating Last Month Industry Avg S&amp;P; 500 Avg 5.00 \u2014 \u2014 \u2014 Rating Scale: 5=Buy, 1=Sell Total Number of Analysts: Buy 1 Outperform 0 Hold 0 Underperform 0 Sell 0", 
+            "AnnualEarningEst": [
+                {
+                    "High": [
+                        "2.50", 
+                        "8.2", 
+                        "\u00a0", 
+                        "3.07", 
+                        "22.8"
+                    ]
+                }, 
+                {
+                    "Low": [
+                        "2.50", 
+                        "8.2", 
+                        "\u00a0", 
+                        "3.07", 
+                        "22.8"
+                    ]
+                }, 
+                {
+                    "Mean": [
+                        "2.50", 
+                        "8.2", 
+                        "\u00a0", 
+                        "3.07", 
+                        "22.8"
+                    ]
+                }, 
+                {
+                    "Median": [
+                        "2.50", 
+                        "8.2", 
+                        "\u00a0", 
+                        "3.07", 
+                        "22.8"
+                    ]
+                }, 
+                {
+                    "30 Days Ago": [
+                        "2.50", 
+                        "8.2", 
+                        "\u00a0", 
+                        "3.07", 
+                        "22.8"
+                    ]
+                }, 
+                {
+                    "60 Days Ago": [
+                        "2.67", 
+                        "15.6", 
+                        "\u00a0", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "90 Days Ago": [
+                        "2.68", 
+                        "16.0", 
+                        "\u00a0", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Number of Estimates": [
+                        "", 
+                        "1", 
+                        "\u00a0", 
+                        "", 
+                        "1"
+                    ]
+                }
+            ], 
+            "Auditor": "KPMG LLP", 
+            "BoardDirectors": "Denny Marie Post, 60\nDirector, President and Chief Executive Offic...Since: 2016\nMs. Post has served as Chief Executive Officer of the Company since August 2016 and as President since February 2016. Prior to that, Ms. Post served as Executiv...\nGlenn Kaufman, 50\nIndependent DirectorSince: 2010\nMr. Kaufman has been a Managing Member of the D Cubed Group, a private-market investment firm, since January 2011. At D Cubed group, in addition to leading the ...\nRichard J. Howell, 74\nIndependent DirectorSince: 2005\nMr. Howell was an audit partner with Arthur Andersen LLP for over 25 years before retiring in 2002. From January 2004 through May 2009, Mr. Howell served as an ...\nCambria W. Dunaway, 55\nIndependent DirectorSince: 2014\nMs. Dunaway served as the U.S. President and Global Chief Marketing Officer of KidZania, an international location-based entertainment concept focused on childr...\nStuart I. Oran, 67\nIndependent DirectorSince: 2010\nSince 2011, Mr. Oran has been a partner at Liberty Hall Capital Partners, a private equity firm focused on the aerospace and defense sectors. Mr. Oran is also t...\nSteven K. Lumpkin, 63\nIndependent DirectorSince: 2016\nMr. Lumpkin currently serves as Principal of Rolling Hills Capital Partners, a consulting firm. Mr. Lumpkin previously served as Executive Vice President, Chief...\nKalen F. Holmes, 51\nIndependent DirectorSince: 2016\nMs. Holmes served as an Executive Vice President of Partner Resources (Human Resources) at Starbucks Corporation from November 2009 until her retirement in Febr...\nPattye L. Moore, 60\nChairman of the BoardSince: 2007\nMs. Moore is a business strategy consultant and the author of Confessions from the Corner Office, a book on leadership instincts. Ms. Moore was on the board of ...\nAylwin B. Lewis, 63\nIndependent DirectorSince: 2018\nMr. Lewis is retired and served as Chairman, Chief Executive Officer and President of Potbelly Corporation from 2011 to 2017, and as President and Chief Executi...", 
+            "CIK": "1171759", 
+            "Cfinancials": [], 
+            "Committees": "Audit Committee\u00a0RRGB\nName\nTitle\nRichard J. Howell\nIndependent Director, Chairman Of Audit Committee And Member Of Compensation Committee\nPattye L. Moore\nChairman Of The Board, Member Of Audit Committee And Member Of Nominating And Governance Committee\nStuart I. Oran\nIndependent Director And Member Of Audit Committee\nSteven K. Lumpkin\nIndependent Director And Member Of Audit Committee\nCompensation Committee\u00a0RRGB\nName\nTitle\nKalen F. Holmes\nIndependent Director, Chairman Of Compensation Committee And Member Of Nominating And Governance Committee\nCambria W. Dunaway\nIndependent Director, Chairman Of Nominating And Governance Committee And Member Of Compensation Committee\nRichard J. Howell\nIndependent Director, Chairman Of Audit Committee And Member Of Compensation Committee\nGlenn Kaufman\nIndependent Director And Member Of Compensation Committee\nNominating And Governance Committee\u00a0RRGB\nName\nTitle\nCambria W. Dunaway\nIndependent Director, Chairman Of Nominating And Governance Committee And Member Of Compensation Committee\nPattye L. Moore\nChairman Of The Board, Member Of Audit Committee And Member Of Nominating And Governance Committee\nKalen F. Holmes\nIndependent Director, Chairman Of Compensation Committee And Member Of Nominating And Governance Committee", 
+            "Competitors": [
+                {
+                    "Red Robin Gourmet Burgers Inc": [
+                        "809", 
+                        "30", 
+                        "0.6", 
+                        "2.1", 
+                        "27.0", 
+                        "\u2014", 
+                        "7.2", 
+                        "4.5", 
+                        "3.6", 
+                        "0.7"
+                    ]
+                }, 
+                {
+                    "McDonald's Corp (USD)": [
+                        "127,196", 
+                        "5,192", 
+                        "5.8", 
+                        "\u2014", 
+                        "25.4", 
+                        "2.4", 
+                        "-3.7", 
+                        "30.3", 
+                        "10.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Starbucks Corp (USD)": [
+                        "83,633", 
+                        "4,383", 
+                        "3.8", 
+                        "14.5", 
+                        "19.6", 
+                        "1.8", 
+                        "11.0", 
+                        "17.4", 
+                        "47.7", 
+                        "0.8"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "32,905", 
+                        "1,161", 
+                        "1.1", 
+                        "11.2", 
+                        "20.9", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "32,905", 
+                        "1,161", 
+                        "1.1", 
+                        "11.1", 
+                        "20.6", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Yum Brands Inc (USD)": [
+                        "28,567", 
+                        "1,340", 
+                        "5.3", 
+                        "\u2014", 
+                        "23.1", 
+                        "1.4", 
+                        "-15.5", 
+                        "23.2", 
+                        "9.4", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Yum China Holdings Inc (USD)": [
+                        "15,568", 
+                        "403", 
+                        "2.2", 
+                        "5.6", 
+                        "39.9", 
+                        "0.5", 
+                        "\u2014", 
+                        "9.9", 
+                        "\u2014", 
+                        "0.0"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International Inc (USD)": [
+                        "13,257", 
+                        "648", 
+                        "5.7", 
+                        "6.0", 
+                        "21.7", 
+                        "1.9", 
+                        "18.3", 
+                        "40.1", 
+                        "3.2", 
+                        "5.4"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International LP (USD)": [
+                        "11,956", 
+                        "1,233", 
+                        "5.1", 
+                        "2.6", 
+                        "17.7", 
+                        "1.9", 
+                        "\u2014", 
+                        "39.7", 
+                        "3.0", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "Darden Restaurants Inc (USD)": [
+                        "11,111", 
+                        "545", 
+                        "1.4", 
+                        "5.2", 
+                        "20.4", 
+                        "2.8", 
+                        "6.1", 
+                        "6.8", 
+                        "16.4", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "11,022", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.4", 
+                        "0.7", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "11,022", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.4", 
+                        "2.1", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Domino's Pizza Inc (USD)": [
+                        "10,258", 
+                        "277", 
+                        "4.1", 
+                        "\u2014", 
+                        "40.9", 
+                        "0.8", 
+                        "10.7", 
+                        "18.3", 
+                        "4.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Chipotle Mexican Grill Inc (USD)": [
+                        "9,446", 
+                        "176", 
+                        "2.2", 
+                        "6.9", 
+                        "55.0", 
+                        "\u2014", 
+                        "10.4", 
+                        "16.8", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Aramark (USD)": [
+                        "9,344", 
+                        "540", 
+                        "0.6", 
+                        "3.4", 
+                        "17.7", 
+                        "1.1", 
+                        "1.6", 
+                        "4.4", 
+                        "2.8", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "McDonald's Holdings Co (Japan) Ltd (USD,JPY)": [
+                        "6,432", 
+                        "24,024", 
+                        "2.7", 
+                        "5.3", 
+                        "28.5", 
+                        "0.6", 
+                        "-3.0", 
+                        "3.1", 
+                        "137.1", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,141", 
+                        "6,881", 
+                        "2.6", 
+                        "8.4", 
+                        "47.2", 
+                        "\u2014", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,141", 
+                        "6,881", 
+                        "2.4", 
+                        "7.8", 
+                        "43.9", 
+                        "0.8", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,880", 
+                        "5,415", 
+                        "3.6", 
+                        "4.4", 
+                        "36.9", 
+                        "0.7", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.2", 
+                        "3.9", 
+                        "32.7", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.8", 
+                        "35.2", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.0", 
+                        "33.5", 
+                        "\u2014", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Dunkin' Brands Group Inc (USD)": [
+                        "5,013", 
+                        "350", 
+                        "6.5", 
+                        "593.6", 
+                        "16.0", 
+                        "2.2", 
+                        "5.5", 
+                        "44.5", 
+                        "4.2", 
+                        "360.3"
+                    ]
+                }, 
+                {
+                    "Texas Roadhouse Inc (USD)": [
+                        "4,481", 
+                        "131", 
+                        "2.0", 
+                        "5.3", 
+                        "34.1", 
+                        "1.4", 
+                        "11.9", 
+                        "8.3", 
+                        "96.0", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "The Wendy's Co (USD)": [
+                        "4,240", 
+                        "194", 
+                        "3.6", 
+                        "7.4", 
+                        "22.9", 
+                        "1.7", 
+                        "-13.4", 
+                        "13.2", 
+                        "1.9", 
+                        "4.8"
+                    ]
+                }, 
+                {
+                    "SSP Group PLC (USD,GBP)": [
+                        "4,165", 
+                        "92", 
+                        "1.2", 
+                        "7.1", 
+                        "31.0", 
+                        "1.3", 
+                        "6.5", 
+                        "5.0", 
+                        "13.6", 
+                        "1.0"
+                    ]
+                }, 
+                {
+                    "Industry Average": [
+                        "4,559", 
+                        "756", 
+                        "2.8", 
+                        "31.0", 
+                        "23.1", 
+                        "1.8", 
+                        "14.4", 
+                        "-33.9", 
+                        "136.8", 
+                        "9.4"
+                    ]
+                }
+            ], 
+            "CurrentCalculation": "Price/Earnings 27.0 22.9 20.8 34.2 Price/Book 2.1 30.7 3.1 2.4 Price/Sales 0.6 2.8 2.2 0.8 Price/Cash Flow 5.2 17.8 13.6 7.1 Dividend Yield % \u2014 1.8 2.0 \u2014 Price/Fair Value \u00a0Premium \u2014 \u2014 \u2014", 
+            "DayAvgVol": "0.2Mil", 
+            "DirInvestment": "No", 
+            "Employees": "29,349", 
+            "Executives": "Denny Marie Post/Director, President and Chief Executive Officer Guy J. Constant/Executive Vice President, Chief Financial Officer and Chief Accounting Officer Jonathan A. Muhtar/Executive Vice President and Chief Concept Officer Carin L. Stutz/Executive Vice President and Chief Operating Officer Beverly K. Carmichael/Executive Vice President and Chief People, Culture, and Resource Officer Michael L. Kaplan/Senior Vice President and Chief Legal Officer Dean Cookson/Senior Vice President and Chief Information Officer Dana Benfield/Senior Vice President and Chief Marketing Officer", 
+            "FiscalYearEnds": "2018-12-31", 
+            "ForwardCalculation": "Forward Price/Earnings 25.1 \u2014 16.9 PEG Ratio 0.0 \u2014 \u2014 PEG Payback (Yrs) \u2014 \u2014 \u2014", 
+            "FullTime": "\u2014", 
+            "ISIC": "Restaurants and Mobile Food Service Activities (5610)", 
+            "Industry": "Restaurants", 
+            "Keystats": "\u00a0 Stock Ind Avg \u00a0 \u00a0 Relative to Industry Price/Earnings TTM 27.0 22.9 \u00a0 Price/Book 2.1 30.7 \u00a0 Price/Sales TTM 0.6 2.8 \u00a0 Rev Growth (3 Yr Avg) 6.4 1.0 \u00a0 Net Income Growth (3 Yr Avg) -2.7 10.5 \u00a0 Operating Margin % TTM 3.3 20.3 \u00a0 Net Margin % TTM 2.2 11.7 \u00a0 ROA TTM 3.3 11.5 \u00a0 ROE TTM 8.2 162.0 \u00a0 Debt/Equity 0.7 9.4 \u00a0 \u2013 Avg + \u2013 Avg +", 
+            "LegalAdvisor": "Davis Graham &amp; Stubbs LLP", 
+            "MarketCap": "0.8Bil", 
+            "NAICS": "\u2014 (722511)", 
+            "NetIncome": "30.0Mil", 
+            "PartTime": "\u2014", 
+            "SIC": "Restaurants, Licensed (9211) Eating Places (5812)", 
+            "Sales": "1.4Bil", 
+            "Sector": "Consumer Cyclical", 
+            "StockSale": "\u00a0 Small Core", 
+            "YearEstablished": "\u2014"
+        }
+    }
+]

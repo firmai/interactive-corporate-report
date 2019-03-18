@@ -1,0 +1,628 @@
+[
+    {
+        "eat": {
+            "AnalystRating": "Five-Year Growth Forecast Industry Avg \u9225\ufffd% \u2014 Average Rating Last Month Industry Avg S&amp;P; 500 Avg 3.00 \u2014 \u2014 \u2014 Rating Scale: 5=Buy, 1=Sell Total Number of Analysts: Buy 0 Outperform 0 Hold 3 Underperform 0 Sell 0", 
+            "AnnualEarningEst": [
+                {
+                    "High": [
+                        "3.29", 
+                        "11.9", 
+                        "\u00a0", 
+                        "3.53", 
+                        "7.3"
+                    ]
+                }, 
+                {
+                    "Low": [
+                        "3.20", 
+                        "8.8", 
+                        "\u00a0", 
+                        "3.45", 
+                        "7.8"
+                    ]
+                }, 
+                {
+                    "Mean": [
+                        "3.24", 
+                        "10.2", 
+                        "\u00a0", 
+                        "3.49", 
+                        "7.7"
+                    ]
+                }, 
+                {
+                    "Median": [
+                        "3.22", 
+                        "9.5", 
+                        "\u00a0", 
+                        "3.50", 
+                        "8.7"
+                    ]
+                }, 
+                {
+                    "30 Days Ago": [
+                        "\u2014", 
+                        "\u2014", 
+                        "\u00a0", 
+                        "3.50", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "60 Days Ago": [
+                        "3.24", 
+                        "10.2", 
+                        "\u00a0", 
+                        "3.50", 
+                        "8.0"
+                    ]
+                }, 
+                {
+                    "90 Days Ago": [
+                        "3.24", 
+                        "10.2", 
+                        "\u00a0", 
+                        "3.31", 
+                        "2.2"
+                    ]
+                }, 
+                {
+                    "Number of Estimates": [
+                        "", 
+                        "3", 
+                        "\u00a0", 
+                        "", 
+                        "3"
+                    ]
+                }
+            ], 
+            "Auditor": "KPMG LLP", 
+            "BoardDirectors": "Wyman T. Roberts, 58\nDirector, President and Chief Executive Offic...Since: 2013\nMr. Roberts is President and Chief Executive Officer of the Company, having been appointed to this position in January 2013. Mr. Roberts previously served as Pr...\nJoseph M. Depinto, 54\nChairman of the BoardSince: 2010\nMr. DePinto is Chairman of the Board of Directors of the Company, serving in this position since November 2013, and is President and Chief Executive Officer of ...\nMichael A. George, 56\nIndependent DirectorSince: 2013\nMr. George is the President and Chief Executive Officer for QVC, Inc. since November 2005. Previously, Mr. George served in various executive roles at Dell, Inc...\nGeorge R. Mrkonic, 65\nIndependent DirectorSince: 2003\nMr. Mrkonic is the Non-Executive Chairman (Director since 1999; Chairman since 2005) of Paperchase Products Limited, London, UK, a retailer of cards, stationary...\nWilliam T. Giles, 58\nIndependent DirectorSince: 2013\nMr. Giles is the Chief Financial Officer and Executive Vice President, Finance, Information Technology and ALLDATA for AutoZone since October 2012. Prior to tha...\nHarriet Edelman, 61\nIndependent DirectorSince: 2008\nMs. Edelman is Vice-Chairman of Emigrant Bank since November 2010. Previously, Ms. Edelman served as Advisor to the Chairman of Emigrant Bank from June 2008 thr...\nGerardo I. Lopez, 58\nIndependent DirectorSince: 2013\nMr. Lopez is the President and Chief Executive Officer of Extended Stay America, Inc. and its paired-share REIT, ESH Hospitality, Inc. since August 2015. Mr. Lo...\nJose Luis Prado Becerra, 62\nIndependent DirectorSince: 2015\nMr. Prado is the Chairman and Chief Executive Officer of Evans Food Group, Ltd. since April 8, 2016. Mr. Prado previously served as President of Quaker Oats Nor...\nElaine L. Boltz, 48\nIndependent DirectorSince: 2015\nMs. Boltz is the Senior Vice President, E-Commerce, for The TJX Companies, Inc. since March 2011. Before joining TJX, Ms. Boltz was Senior Vice President of Str...\nJames Katzman,\nDirectorSince: 2018\nKatzman is a retired partner of Goldman Sachs. A seasoned, accomplished investment banking professional, he spent his career advising companies on corporate fin...", 
+            "CIK": "703351", 
+            "Cfinancials": [
+                {
+                    "Revenue": [
+                        "3,151", 
+                        "3,257", 
+                        "3,002", 
+                        "\u00a0", 
+                        "766", 
+                        "771"
+                    ]
+                }, 
+                {
+                    "Operating Income": [
+                        "266", 
+                        "328", 
+                        "315", 
+                        "\u00a0", 
+                        "61", 
+                        "61"
+                    ]
+                }, 
+                {
+                    "Net Income": [
+                        "151", 
+                        "201", 
+                        "197", 
+                        "\u00a0", 
+                        "25", 
+                        "35"
+                    ]
+                }, 
+                {
+                    "Earnings Per Share": [
+                        "2.94", 
+                        "3.42", 
+                        "3.05", 
+                        "\u00a0", 
+                        "0.54", 
+                        "0.69"
+                    ]
+                }, 
+                {
+                    "Diluted Average Shares": [
+                        "51", 
+                        "59", 
+                        "64", 
+                        "\u00a0", 
+                        "47", 
+                        "50"
+                    ]
+                }, 
+                {
+                    "Current Assets": [
+                        "154", 
+                        "177", 
+                        "190", 
+                        "\u00a0", 
+                        "194", 
+                        "224"
+                    ]
+                }, 
+                {
+                    "Non Current Assets": [
+                        "1,259", 
+                        "1,296", 
+                        "1,246", 
+                        "\u00a0", 
+                        "1,206", 
+                        "1,274"
+                    ]
+                }, 
+                {
+                    "Total Assets": [
+                        "1,414", 
+                        "1,473", 
+                        "1,436", 
+                        "\u00a0", 
+                        "1,401", 
+                        "1,498"
+                    ]
+                }, 
+                {
+                    "Current Liabilities": [
+                        "446", 
+                        "432", 
+                        "418", 
+                        "\u00a0", 
+                        "452", 
+                        "470"
+                    ]
+                }, 
+                {
+                    "Total Liabilities": [
+                        "\u2014", 
+                        "\u2014", 
+                        "\u2014", 
+                        "\u00a0", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Stockholders' Equity": [
+                        "\n-494\t\t\t\t", 
+                        "\n-213\t\t\t\t", 
+                        "\n-78\t\t\t\t", 
+                        "\u00a0", 
+                        "\n-553                ", 
+                        "\n-531                "
+                    ]
+                }, 
+                {
+                    "Cash From Operations": [
+                        "313", 
+                        "395", 
+                        "369", 
+                        "\u00a0", 
+                        "69", 
+                        "75"
+                    ]
+                }, 
+                {
+                    "Capital Expenditures": [
+                        "-103", 
+                        "-113", 
+                        "-140", 
+                        "\u00a0", 
+                        "-26", 
+                        "-33"
+                    ]
+                }, 
+                {
+                    "Free Cash Flow": [
+                        "210", 
+                        "282", 
+                        "228", 
+                        "\u00a0", 
+                        "43", 
+                        "42"
+                    ]
+                }
+            ], 
+            "Committees": "Audit Committee\u00a0EAT\nName\nTitle\nWilliam T. Giles\nIndependent Director, Chairman Of Audit Committee And Member Of Compensation Committee\nGerardo I. Lopez\nIndependent Director, Member Of Audit Committee And Member Of Governance And Nominating Committee\nHarriet Edelman\nIndependent Director, Chairman Of Governance And Nominating Committee And Member Of Audit Committee\nMichael A. George\nIndependent Director, Member Of Audit Committee And Member Of Compensation Committee\nElaine L. Boltz\nIndependent Director, Member Of Audit Committee And Member Of Governance And Nominating Committee\nCompensation Committee\u00a0EAT\nName\nTitle\nGeorge R. Mrkonic\nIndependent Director, Chairman Of Compensation Committee And Member Of Governance And Nominating Committee\nWilliam T. Giles\nIndependent Director, Chairman Of Audit Committee And Member Of Compensation Committee\nMichael A. George\nIndependent Director, Member Of Audit Committee And Member Of Compensation Committee\nJose Luis Prado Becerra\nIndependent Director And Member Of Compensation Committee\nGovernance And Nominating Committee\u00a0EAT\nName\nTitle\nHarriet Edelman\nIndependent Director, Chairman Of Governance And Nominating Committee And Member Of Audit Committee\nGerardo I. Lopez\nIndependent Director, Member Of Audit Committee And Member Of Governance And Nominating Committee\nGeorge R. Mrkonic\nIndependent Director, Chairman Of Compensation Committee And Member Of Governance And Nominating Committee\nElaine L. Boltz\nIndependent Director, Member Of Audit Committee And Member Of Governance And Nominating Committee", 
+            "Competitors": [
+                {
+                    "Brinker International Inc": [
+                        "1,846", 
+                        "128", 
+                        "0.6", 
+                        "\u2014", 
+                        "15.4", 
+                        "3.7", 
+                        "2.2", 
+                        "9.9", 
+                        "5.2", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "McDonald's Corp (USD)": [
+                        "124,807", 
+                        "5,192", 
+                        "5.7", 
+                        "\u2014", 
+                        "24.9", 
+                        "2.5", 
+                        "-3.7", 
+                        "30.3", 
+                        "10.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Starbucks Corp (USD)": [
+                        "81,524", 
+                        "4,383", 
+                        "3.7", 
+                        "14.2", 
+                        "19.1", 
+                        "1.9", 
+                        "11.0", 
+                        "17.4", 
+                        "47.7", 
+                        "0.8"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "33,233", 
+                        "1,161", 
+                        "1.1", 
+                        "11.2", 
+                        "20.9", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "33,233", 
+                        "1,161", 
+                        "1.1", 
+                        "11.5", 
+                        "21.3", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Yum Brands Inc (USD)": [
+                        "28,337", 
+                        "1,340", 
+                        "5.2", 
+                        "\u2014", 
+                        "22.9", 
+                        "1.5", 
+                        "-15.5", 
+                        "23.2", 
+                        "9.4", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Yum China Holdings Inc (USD)": [
+                        "15,718", 
+                        "403", 
+                        "2.3", 
+                        "5.7", 
+                        "40.3", 
+                        "0.5", 
+                        "\u2014", 
+                        "9.9", 
+                        "\u2014", 
+                        "0.0"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International Inc (USD)": [
+                        "13,361", 
+                        "648", 
+                        "5.7", 
+                        "6.0", 
+                        "21.5", 
+                        "1.9", 
+                        "18.3", 
+                        "40.1", 
+                        "3.2", 
+                        "5.4"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International LP (USD)": [
+                        "11,856", 
+                        "1,233", 
+                        "5.1", 
+                        "2.6", 
+                        "17.7", 
+                        "1.9", 
+                        "\u2014", 
+                        "39.7", 
+                        "3.0", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "Darden Restaurants Inc (USD)": [
+                        "11,271", 
+                        "545", 
+                        "1.5", 
+                        "5.3", 
+                        "20.7", 
+                        "2.8", 
+                        "6.1", 
+                        "6.8", 
+                        "16.4", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "10,949", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.6", 
+                        "0.7", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "10,949", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.7", 
+                        "2.1", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Domino's Pizza Inc (USD)": [
+                        "10,290", 
+                        "277", 
+                        "4.1", 
+                        "\u2014", 
+                        "41.0", 
+                        "0.8", 
+                        "10.7", 
+                        "18.3", 
+                        "4.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Aramark (USD)": [
+                        "9,280", 
+                        "540", 
+                        "0.6", 
+                        "3.4", 
+                        "17.6", 
+                        "1.1", 
+                        "1.6", 
+                        "4.4", 
+                        "2.8", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "Chipotle Mexican Grill Inc (USD)": [
+                        "9,240", 
+                        "176", 
+                        "2.1", 
+                        "6.8", 
+                        "53.8", 
+                        "\u2014", 
+                        "10.4", 
+                        "16.8", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "McDonald's Holdings Co (Japan) Ltd (USD,JPY)": [
+                        "6,372", 
+                        "24,024", 
+                        "2.7", 
+                        "5.3", 
+                        "28.6", 
+                        "0.6", 
+                        "-3.0", 
+                        "3.1", 
+                        "137.1", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,074", 
+                        "6,881", 
+                        "2.6", 
+                        "8.3", 
+                        "47.0", 
+                        "\u2014", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,074", 
+                        "6,881", 
+                        "2.4", 
+                        "7.8", 
+                        "43.8", 
+                        "0.8", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,838", 
+                        "5,415", 
+                        "3.6", 
+                        "4.4", 
+                        "36.9", 
+                        "0.7", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.0", 
+                        "33.5", 
+                        "\u2014", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.8", 
+                        "35.2", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.2", 
+                        "3.9", 
+                        "32.7", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Dunkin' Brands Group Inc (USD)": [
+                        "5,038", 
+                        "350", 
+                        "6.5", 
+                        "596.5", 
+                        "16.0", 
+                        "2.2", 
+                        "5.5", 
+                        "44.5", 
+                        "4.2", 
+                        "360.3"
+                    ]
+                }, 
+                {
+                    "Texas Roadhouse Inc (USD)": [
+                        "4,522", 
+                        "131", 
+                        "2.0", 
+                        "5.4", 
+                        "34.4", 
+                        "1.4", 
+                        "11.9", 
+                        "8.3", 
+                        "96.0", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "SSP Group PLC (USD,GBP)": [
+                        "4,223", 
+                        "92", 
+                        "1.2", 
+                        "7.2", 
+                        "31.5", 
+                        "1.3", 
+                        "6.5", 
+                        "5.0", 
+                        "13.6", 
+                        "1.0"
+                    ]
+                }, 
+                {
+                    "The Wendy's Co (USD)": [
+                        "4,124", 
+                        "194", 
+                        "3.5", 
+                        "7.2", 
+                        "22.3", 
+                        "1.7", 
+                        "-13.4", 
+                        "13.2", 
+                        "1.9", 
+                        "4.8"
+                    ]
+                }, 
+                {
+                    "Industry Average": [
+                        "4,521", 
+                        "756", 
+                        "2.8", 
+                        "30.5", 
+                        "22.7", 
+                        "1.8", 
+                        "14.4", 
+                        "-34.5", 
+                        "136.8", 
+                        "9.4"
+                    ]
+                }
+            ], 
+            "CurrentCalculation": "Price/Earnings 15.4 22.7 20.8 17.8 Price/Book \u2014 30.5 3.1 109.1 Price/Sales 0.6 2.8 2.2 1.0 Price/Cash Flow 6.7 17.7 13.6 7.8 Dividend Yield % 3.7 1.9 2.0 2.5 Price/Fair Value \u00a0Premium \u2014 \u2014 \u2014", 
+            "DayAvgVol": "1.2Mil", 
+            "DirInvestment": "No", 
+            "Employees": "57,906", 
+            "Executives": "Wyman T. Roberts/Director, President and Chief Executive Officer Kelli A. Valade/Executive Vice President and President, Chili's Grill &amp; Bar Steve Provost/Executive Vice President and Chief Marketing and Innovation Officer, Chili's Grill and Bar Scarlett May/Senior Vice President, General Counsel and Secretary Charles A. Lousignont/Senior Vice President, Supply Chain Management Rick Badgley/Senior Vice President and Chief People Officer Joseph G. Taylor/Senior Vice President and Chief Financial Officer David Doyle/Senior Vice President and Chief Information Officer", 
+            "FiscalYearEnds": "2018-06-30", 
+            "ForwardCalculation": "Forward Price/Earnings 11.4 \u2014 16.9 PEG Ratio 0.0 \u2014 \u2014 PEG Payback (Yrs) \u2014 \u2014 \u2014", 
+            "FullTime": "\u2014", 
+            "ISIC": "Restaurants and Mobile Food Service Activities (5610)", 
+            "Industry": "Restaurants", 
+            "Keystats": "\u00a0 Stock Ind Avg \u00a0 \u00a0 Relative to Industry Price/Earnings TTM 15.4 22.7 \u00a0 Price/Book \u2014 30.5 \u00a0 Price/Sales TTM 0.6 2.8 \u00a0 Rev Growth (3 Yr Avg) 2.7 1.0 \u00a0 Net Income Growth (3 Yr Avg) -0.7 10.5 \u00a0 Operating Margin % TTM 8.2 20.3 \u00a0 Net Margin % TTM 4.1 11.7 \u00a0 ROA TTM 8.9 11.5 \u00a0 ROE TTM \u2014 162.0 \u00a0 Debt/Equity \u2014 9.4 \u00a0 \u2013 Avg + \u2013 Avg +", 
+            "LegalAdvisor": "Hallett &amp; Perrin, P.C.", 
+            "MarketCap": "1.8Bil", 
+            "NAICS": "\u2014 (722511)", 
+            "NetIncome": "0.1Bil", 
+            "PartTime": "\u2014", 
+            "SIC": "Restaurants, Licensed (9211) Eating Places (5812)", 
+            "Sales": "3.1Bil", 
+            "Sector": "Consumer Cyclical", 
+            "StockSale": "\u00a0 Small Value", 
+            "YearEstablished": "\u2014"
+        }
+    }
+]

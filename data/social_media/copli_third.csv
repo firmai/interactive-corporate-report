@@ -1,0 +1,9 @@
+ticker,Employee Online Activity,Customer to Employee,Post Quality,Marketing Effectiveness,Photo Worthiness,Photo Effect,Video Effect,Event Effect,Status Effect,Best Post Qtr,Facebook Focus
+APPB,5.0,4.94,0.85,3.24,3.25,3.82,0.66,0.0,0.03,https://www.facebook.com/applebees/photos/a.106500769333.92005.84917689333/10154517997799334/?type=3,0.85
+CHIL,0.88,4.06,1.95,3.34,3.77,2.68,1.58,0.57,0.04,https://www.facebook.com/Chilis/photos/a.107573333213.96653.106027143213/10153191632543214/?type=3,0.86
+CPKI,0.96,4.88,1.46,2.6,5.0,2.91,2.3,0.01,0.01,https://www.facebook.com/californiapizzakitchen/photos/a.90785803702.84244.79746038702/10154840940653703/?type=3,0.9
+TGIF,0.96,4.57,0.85,3.66,1.14,3.84,1.57,0.34,0.07,https://www.facebook.com/TGIFridays/photos/a.10150316519838205.366337.107696493204/10153427828728205/?type=3,0.94
+CAKE,1.05,4.82,2.44,3.24,1.14,1.29,2.19,0.73,0.0,https://www.facebook.com/thecheesecakefactory/photos/a.117150244154.128902.106628409154/10154260829439155/?type=3,0.83
+RRGB,1.05,4.48,1.83,5.0,1.75,2.79,1.61,0.27,0.05,https://www.facebook.com/RedRobin/photos/a.175207518793.119904.7854678793/10154129657778794/?type=3,0.82
+BJRI,1.23,5.0,5.0,3.34,2.19,0.95,1.52,0.49,0.12,https://www.facebook.com/BJsRestaurants/photos/a.72665834212.76706.56409284212/10153496559719213/?type=3,0.86
+Mean,1.59,4.68,2.06,3.49,2.61,2.61,1.63,0.34,0.05,nan,0.87

@@ -1,0 +1,628 @@
+[
+    {
+        "XNAS:bjri": {
+            "AnalystRating": "Five-Year Growth Forecast Industry Avg 15.00% \u2014 Average Rating Last Month Industry Avg S&amp;P; 500 Avg 4.00 \u2014 \u2014 \u2014 Rating Scale: 5=Buy, 1=Sell Total Number of Analysts: Buy 1 Outperform 0 Hold 1 Underperform 0 Sell 0", 
+            "AnnualEarningEst": [
+                {
+                    "High": [
+                        "1.84", 
+                        "-10.7", 
+                        "\u00a0", 
+                        "2.06", 
+                        "12.0"
+                    ]
+                }, 
+                {
+                    "Low": [
+                        "1.77", 
+                        "-14.1", 
+                        "\u00a0", 
+                        "2.00", 
+                        "13.0"
+                    ]
+                }, 
+                {
+                    "Mean": [
+                        "1.80", 
+                        "-12.6", 
+                        "\u00a0", 
+                        "2.03", 
+                        "12.8"
+                    ]
+                }, 
+                {
+                    "Median": [
+                        "1.80", 
+                        "-12.6", 
+                        "\u00a0", 
+                        "2.03", 
+                        "12.8"
+                    ]
+                }, 
+                {
+                    "30 Days Ago": [
+                        "1.80", 
+                        "-12.6", 
+                        "\u00a0", 
+                        "2.03", 
+                        "12.8"
+                    ]
+                }, 
+                {
+                    "60 Days Ago": [
+                        "1.67", 
+                        "-18.9", 
+                        "\u00a0", 
+                        "2.02", 
+                        "21.0"
+                    ]
+                }, 
+                {
+                    "90 Days Ago": [
+                        "1.67", 
+                        "-18.9", 
+                        "\u00a0", 
+                        "2.02", 
+                        "21.0"
+                    ]
+                }, 
+                {
+                    "Number of Estimates": [
+                        "", 
+                        "2", 
+                        "\u00a0", 
+                        "", 
+                        "1"
+                    ]
+                }
+            ], 
+            "Auditor": "Ernst &amp; Young LLP", 
+            "BoardDirectors": "Larry D. Bouts, 68\nIndependent DirectorSince: 2004\nLarry D. Bouts, has been a member of our Board of Directors since April 2004. Mr. Bouts currently serves as an investor and advisor to several early-stage compa...\nGregory A. Trojan, 58\nChief Executive Officer and DirectorSince: 2012\nGregory A. Trojan has served as a member of the Company's Board of Directors since December 2012 and as our Chief Executive Officer since February 2013. Mr. Tro...\nNoah A. Elbogen, 34\nIndependent DirectorSince: 2014\nNOAH A. ELBOGEN has been a member of our Board of Directors since June 2014. Mr. Elbogen currently serves as Managing Member and Chief Executive Officer of Misa...\nPatrick D. Walsh, 41\nIndependent DirectorSince: 2014\nMr. Patrick Walsh, has been a member of our Board of Directors since June 2014. Mr. Walsh has served as the Managing Member and Chief Executive Officer of PW Pa...\nPeter A. Bassi, 67\nLead Independent DirectorSince: 2004\nPETER (PETE) A. BASSI has been a member of our Board of Directors since September 2004 and currently serves as our Lead Independent Director. Mr. Bassi retired ...\nLea Anne S. Ottinger, 58\nIndependent DirectorSince: 2010\nLEA ANNE S. OTTINGER has been a member of our Board of Directors since August 2010. In 1998, Ms. Ottinger founded LMR Advisors, where she serves as a strategic ...\nGerald W. Deitchle, 65\nChairman of the BoardSince: 2004\nGERALD (JERRY) W. DEITCHLE has been a member of our Board of Directors since November 2004 and has served as our Chairman of the Board since June 2008. He serve...\nJames A. Dal Pozzo, 58\nDirectorSince: 2001\nJames A. Dal Pozzo, has been a member of our Board of Directors since January 2001. Since January 2013, Mr. Dal Pozzo has served as Chairman of the Board and Ch...\nWesley A. Nichols, 52\nIndependent DirectorSince: 2013\nWESLEY A. NICHOLS has been a member of our Board of Directors since December 2013. From January 2005 until December 2015, Mr. Nichols served as co-founder and C...", 
+            "CIK": "1013488", 
+            "Cfinancials": [
+                {
+                    "Revenue": [
+                        "1,032", 
+                        "993", 
+                        "920", 
+                        "\u00a0", 
+                        "261", 
+                        "266"
+                    ]
+                }, 
+                {
+                    "Operating Income": [
+                        "44", 
+                        "65", 
+                        "63", 
+                        "\u00a0", 
+                        "12", 
+                        "17"
+                    ]
+                }, 
+                {
+                    "Net Income": [
+                        "45", 
+                        "46", 
+                        "45", 
+                        "\u00a0", 
+                        "23", 
+                        "13"
+                    ]
+                }, 
+                {
+                    "Earnings Per Share": [
+                        "2.06", 
+                        "1.88", 
+                        "1.73", 
+                        "\u00a0", 
+                        "1.09", 
+                        "0.55"
+                    ]
+                }, 
+                {
+                    "Diluted Average Shares": [
+                        "22", 
+                        "24", 
+                        "26", 
+                        "\u00a0", 
+                        "21", 
+                        "23"
+                    ]
+                }, 
+                {
+                    "Current Assets": [
+                        "60", 
+                        "77", 
+                        "93", 
+                        "\u00a0", 
+                        "60", 
+                        "77"
+                    ]
+                }, 
+                {
+                    "Non Current Assets": [
+                        "625", 
+                        "632", 
+                        "589", 
+                        "\u00a0", 
+                        "625", 
+                        "632"
+                    ]
+                }, 
+                {
+                    "Total Assets": [
+                        "685", 
+                        "709", 
+                        "682", 
+                        "\u00a0", 
+                        "685", 
+                        "709"
+                    ]
+                }, 
+                {
+                    "Current Liabilities": [
+                        "123", 
+                        "126", 
+                        "117", 
+                        "\u00a0", 
+                        "123", 
+                        "126"
+                    ]
+                }, 
+                {
+                    "Total Liabilities": [
+                        "\u2014", 
+                        "\u2014", 
+                        "\u2014", 
+                        "\u00a0", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Stockholders' Equity": [
+                        "\n259\t\t\t\t", 
+                        "\n275\t\t\t\t", 
+                        "\n316\t\t\t\t", 
+                        "\u00a0", 
+                        "\n259                ", 
+                        "\n275                "
+                    ]
+                }, 
+                {
+                    "Cash From Operations": [
+                        "107", 
+                        "138", 
+                        "127", 
+                        "\u00a0", 
+                        "38", 
+                        "30"
+                    ]
+                }, 
+                {
+                    "Capital Expenditures": [
+                        "-71", 
+                        "-109", 
+                        "-86", 
+                        "\u00a0", 
+                        "-13", 
+                        "-29"
+                    ]
+                }, 
+                {
+                    "Free Cash Flow": [
+                        "36", 
+                        "29", 
+                        "41", 
+                        "\u00a0", 
+                        "25", 
+                        "1"
+                    ]
+                }
+            ], 
+            "Committees": "Audit Committee\u00a0BJRI\nName\nTitle\nLarry D. Bouts\nIndependent Director, Chairman Of Audit Committee And Member Of Governance And Nominating Committee\nPeter A. Bassi\nLead Independent Director, Chairman Of Governance And Nominating Committee, Member Of Audit Committee And Member Of Compensation Committee\nPatrick D. Walsh\nIndependent Director, Member Of Audit Committee And Member Of Compensation Committee\nCompensation Committee\u00a0BJRI\nName\nTitle\nLea Anne S. Ottinger\nIndependent Director, Chairman Of Compensation Committee\nPeter A. Bassi\nLead Independent Director, Chairman Of Governance And Nominating Committee, Member Of Audit Committee And Member Of Compensation Committee\nPatrick D. Walsh\nIndependent Director, Member Of Audit Committee And Member Of Compensation Committee\nNoah A. Elbogen\nIndependent Director, Member Of Compensation Committee And Member Of Governance And Nominating Committee\nGovernance And Nominating Committee\u00a0BJRI\nName\nTitle\nPeter A. Bassi\nLead Independent Director, Chairman Of Governance And Nominating Committee, Member Of Audit Committee And Member Of Compensation Committee\nLarry D. Bouts\nIndependent Director, Chairman Of Audit Committee And Member Of Governance And Nominating Committee\nWesley A. Nichols\nIndependent Director And Member Of Governance And Nominating Committee\nNoah A. Elbogen\nIndependent Director, Member Of Compensation Committee And Member Of Governance And Nominating Committee", 
+            "Competitors": [
+                {
+                    "BJ's Restaurants Inc": [
+                        "997", 
+                        "44", 
+                        "1.0", 
+                        "3.9", 
+                        "23.6", 
+                        "0.4", 
+                        "7.8", 
+                        "4.4", 
+                        "\u2014", 
+                        "0.6"
+                    ]
+                }, 
+                {
+                    "McDonald's Corp (USD)": [
+                        "127,196", 
+                        "5,192", 
+                        "5.8", 
+                        "\u2014", 
+                        "25.4", 
+                        "2.4", 
+                        "-3.7", 
+                        "30.3", 
+                        "10.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Starbucks Corp (USD)": [
+                        "83,633", 
+                        "4,383", 
+                        "3.8", 
+                        "14.5", 
+                        "19.6", 
+                        "1.8", 
+                        "11.0", 
+                        "17.4", 
+                        "47.7", 
+                        "0.8"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "32,905", 
+                        "1,161", 
+                        "1.1", 
+                        "11.2", 
+                        "20.9", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Compass Group PLC (USD,GBP)": [
+                        "32,905", 
+                        "1,161", 
+                        "1.1", 
+                        "11.1", 
+                        "20.6", 
+                        "2.2", 
+                        "5.9", 
+                        "7.1", 
+                        "14.8", 
+                        "1.9"
+                    ]
+                }, 
+                {
+                    "Yum Brands Inc (USD)": [
+                        "28,567", 
+                        "1,340", 
+                        "5.3", 
+                        "\u2014", 
+                        "23.1", 
+                        "1.4", 
+                        "-15.5", 
+                        "23.2", 
+                        "9.4", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Yum China Holdings Inc (USD)": [
+                        "15,568", 
+                        "403", 
+                        "2.2", 
+                        "5.6", 
+                        "39.9", 
+                        "0.5", 
+                        "\u2014", 
+                        "9.9", 
+                        "\u2014", 
+                        "0.0"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International Inc (USD)": [
+                        "13,257", 
+                        "648", 
+                        "5.7", 
+                        "6.0", 
+                        "21.7", 
+                        "1.9", 
+                        "18.3", 
+                        "40.1", 
+                        "3.2", 
+                        "5.4"
+                    ]
+                }, 
+                {
+                    "Restaurant Brands International LP (USD)": [
+                        "11,956", 
+                        "1,233", 
+                        "5.1", 
+                        "2.6", 
+                        "17.7", 
+                        "1.9", 
+                        "\u2014", 
+                        "39.7", 
+                        "3.0", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "Darden Restaurants Inc (USD)": [
+                        "11,111", 
+                        "545", 
+                        "1.4", 
+                        "5.2", 
+                        "20.4", 
+                        "2.8", 
+                        "6.1", 
+                        "6.8", 
+                        "16.4", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "11,022", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.4", 
+                        "0.7", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Whitbread PLC (USD,GBP)": [
+                        "11,022", 
+                        "470", 
+                        "2.4", 
+                        "2.9", 
+                        "16.4", 
+                        "2.1", 
+                        "11.8", 
+                        "18.8", 
+                        "15.0", 
+                        "0.4"
+                    ]
+                }, 
+                {
+                    "Domino's Pizza Inc (USD)": [
+                        "10,258", 
+                        "277", 
+                        "4.1", 
+                        "\u2014", 
+                        "40.9", 
+                        "0.8", 
+                        "10.7", 
+                        "18.3", 
+                        "4.3", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Chipotle Mexican Grill Inc (USD)": [
+                        "9,446", 
+                        "176", 
+                        "2.2", 
+                        "6.9", 
+                        "55.0", 
+                        "\u2014", 
+                        "10.4", 
+                        "16.8", 
+                        "\u2014", 
+                        "\u2014"
+                    ]
+                }, 
+                {
+                    "Aramark (USD)": [
+                        "9,344", 
+                        "540", 
+                        "0.6", 
+                        "3.4", 
+                        "17.7", 
+                        "1.1", 
+                        "1.6", 
+                        "4.4", 
+                        "2.8", 
+                        "2.6"
+                    ]
+                }, 
+                {
+                    "McDonald's Holdings Co (Japan) Ltd (USD,JPY)": [
+                        "6,432", 
+                        "24,024", 
+                        "2.7", 
+                        "5.3", 
+                        "28.5", 
+                        "0.6", 
+                        "-3.0", 
+                        "3.1", 
+                        "137.1", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,141", 
+                        "6,881", 
+                        "2.6", 
+                        "8.4", 
+                        "47.2", 
+                        "\u2014", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Jollibee Foods Corporation (USD,PHP)": [
+                        "6,141", 
+                        "6,881", 
+                        "2.4", 
+                        "7.8", 
+                        "43.9", 
+                        "0.8", 
+                        "12.7", 
+                        "6.3", 
+                        "29.9", 
+                        "0.3"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,880", 
+                        "5,415", 
+                        "3.6", 
+                        "4.4", 
+                        "36.9", 
+                        "0.7", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.2", 
+                        "3.9", 
+                        "32.7", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.8", 
+                        "35.2", 
+                        "0.8", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Minor International PCL (USD,THB)": [
+                        "5,711", 
+                        "5,415", 
+                        "3.3", 
+                        "4.0", 
+                        "33.5", 
+                        "\u2014", 
+                        "11.9", 
+                        "12.2", 
+                        "4.6", 
+                        "0.9"
+                    ]
+                }, 
+                {
+                    "Dunkin' Brands Group Inc (USD)": [
+                        "5,013", 
+                        "350", 
+                        "6.5", 
+                        "593.6", 
+                        "16.0", 
+                        "2.2", 
+                        "5.5", 
+                        "44.5", 
+                        "4.2", 
+                        "360.3"
+                    ]
+                }, 
+                {
+                    "Texas Roadhouse Inc (USD)": [
+                        "4,481", 
+                        "131", 
+                        "2.0", 
+                        "5.3", 
+                        "34.1", 
+                        "1.4", 
+                        "11.9", 
+                        "8.3", 
+                        "96.0", 
+                        "0.1"
+                    ]
+                }, 
+                {
+                    "The Wendy's Co (USD)": [
+                        "4,240", 
+                        "194", 
+                        "3.6", 
+                        "7.4", 
+                        "22.9", 
+                        "1.7", 
+                        "-13.4", 
+                        "13.2", 
+                        "1.9", 
+                        "4.8"
+                    ]
+                }, 
+                {
+                    "SSP Group PLC (USD,GBP)": [
+                        "4,165", 
+                        "92", 
+                        "1.2", 
+                        "7.1", 
+                        "31.0", 
+                        "1.3", 
+                        "6.5", 
+                        "5.0", 
+                        "13.6", 
+                        "1.0"
+                    ]
+                }, 
+                {
+                    "Industry Average": [
+                        "4,559", 
+                        "756", 
+                        "2.8", 
+                        "31.0", 
+                        "23.1", 
+                        "1.8", 
+                        "14.4", 
+                        "-33.9", 
+                        "136.8", 
+                        "9.4"
+                    ]
+                }
+            ], 
+            "CurrentCalculation": "Price/Earnings 23.6 23.1 20.8 34.2 Price/Book 3.9 31.0 3.1 2.9 Price/Sales 1.0 2.8 2.2 1.2 Price/Cash Flow 9.9 18.0 13.6 9.2 Dividend Yield % 0.5 1.8 2.0 \u2014 Price/Fair Value \u00a0Premium \u2014 \u2014 \u2014", 
+            "DayAvgVol": "0.4Mil", 
+            "DirInvestment": "No", 
+            "Employees": "21,700", 
+            "Executives": "Gregory A. Trojan/Chief Executive Officer and Director Gregory S. Levin/Chief Accounting Officer, President, Chief Financial Officer and Secretary Gregory S. Lynds/Executive Vice President and Chief Development Officer Lon F. Ledwith/Executive Vice President of Operations Kevin E. Mayer/Executive Vice President and Chief Marketing Officer Kendra Miller/Senior Vice President, General Counsel and Assistant Secretary Brian S. Krakower/Senior Vice President and Chief Information Officer", 
+            "FiscalYearEnds": "2018-12-31", 
+            "ForwardCalculation": "Forward Price/Earnings 27.2 \u2014 16.9 PEG Ratio 1.8 \u2014 \u2014 PEG Payback (Yrs) 10.6 \u2014 \u2014", 
+            "FullTime": "\u2014", 
+            "ISIC": "Restaurants and Mobile Food Service Activities (5610)", 
+            "Industry": "Restaurants", 
+            "Keystats": "\u00a0 Stock Ind Avg \u00a0 \u00a0 Relative to Industry Price/Earnings TTM 23.6 22.9 \u00a0 Price/Book 3.9 30.7 \u00a0 Price/Sales TTM 1.0 2.8 \u00a0 Rev Growth (3 Yr Avg) 6.9 1.0 \u00a0 Net Income Growth (3 Yr Avg) 17.8 10.5 \u00a0 Operating Margin % TTM 4.3 20.3 \u00a0 Net Margin % TTM 4.3 11.7 \u00a0 ROA TTM 6.4 11.5 \u00a0 ROE TTM 16.8 162.0 \u00a0 Debt/Equity 0.6 9.4 \u00a0 \u2013 Avg + \u2013 Avg +", 
+            "LegalAdvisor": "Jeffer Mangels Butler &amp; Mitchell LLP", 
+            "MarketCap": "1.0Bil", 
+            "NAICS": "\u2014 (722511)", 
+            "NetIncome": "44.8Mil", 
+            "PartTime": "\u2014", 
+            "SIC": "Restaurants, Licensed (9211) Eating Places (5812)", 
+            "Sales": "1.0Bil", 
+            "Sector": "Consumer Cyclical", 
+            "StockSale": "\u00a0 Small Growth", 
+            "YearEstablished": "\u2014"
+        }
+    }
+]
