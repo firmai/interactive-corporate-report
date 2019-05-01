@@ -3,7 +3,7 @@
 
 For a sampled version of the report (webapp) see [**FirmAI Report**](http://report.firmai.org). 
 
-This report endeavours to provide ratings of four corporate dimensions: employees, customers, shareholders and management, as benchmarked against competitors. It also shows the change in ratings over time. In a final step, a machine learning model compares all the metrics (about 80) with company valuations to establishes whether a firm is under or over-valued. It most notably predicted that BJ's Restaurants were significantly undervalued at the end of 2017, within 6 months the stock price doubled. If you look at the chart, which shows the portfolio performance of $100 (not the stock price) over five years, the light blue line is the ML valuation, and the dark blue line is the real market value. 
+This report endeavours to provide ratings of four corporate dimensions: employees, customers, shareholders and management, as benchmarked against competitors. It also shows the change in ratings over time. 
 
 This report consists of Programmatic Competitor Analysis,  NLP Sentiment Analysis, NLP Summarisation, ML Time Series and Cross-Section Prediction (Valuation, Closures, Geographic Opportunity), Employee Growth and Qualifications Measures, Location Ratings, Rating Growth, Social Media Analytics, Compensation Satisfaction Analysis, Interview Analysis, Product Analysis and Financial PCA. It is my hope that this report, analysis, generated data and scraping scripts (in functionality folder), will benefit smaller firms who do not necessarily have access to this technology stack. 
 
