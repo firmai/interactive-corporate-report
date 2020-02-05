@@ -3,7 +3,7 @@
 
 For a sampled version of the report (webapp) see [**FirmAI Report**](http://report.firmai.org). 
 
-This report endeavours to provide ratings of four corporate dimensions: employees, customers, shareholders and management, as benchmarked against competitors. It also shows the change in ratings over time. 
+This report endeavours to provide ratings of four corporate dimensions: employees, customers, shareholders and management, as benchmarked against competitors. It also shows the change in ratings over time. The competitors are automatically identified from the data using statistical distance metrics. 
 
 This report consists of Programmatic Competitor Analysis,  NLP Sentiment Analysis, NLP Summarisation, ML Time Series and Cross-Section Prediction (Valuation, Closures, Geographic Opportunity), Employee Growth and Qualifications Measures, Location Ratings, Rating Growth, Social Media Analytics, Compensation Satisfaction Analysis, Interview Analysis, Product Analysis and Financial PCA. It is my hope that this report, analysis, generated data and scraping scripts (in functionality folder), will benefit smaller firms who do not necessarily have access to this technology stack. 
 
