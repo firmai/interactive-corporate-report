@@ -10,7 +10,7 @@ This report consists of Programmatic Competitor Analysis,  NLP Sentiment Analysi
 ## Overview
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_CE83DB4FA505DA9E22D78608D2D9724ABB207FCF67EC0D449DDCF275FD745057_1530937036816_file.png)
+![](https://photos-3.dropbox.com/t/2/AAD-gPlWxty1QXnoAuFTwx0-EcHhETyg7RMn9AWk9FIfVA/12/83718852/png/2048x1/5/1580889600/0/10/image.png/_/png%2520https%253A%252F%252Fpaper-attachments.dropbox.com%252Fs_CE83DB4FA505DA9E22D78608D2D9724ABB207FCF67EC0D449DDCF275FD745057_1530937036816_file.png?preserve_transparency=1&size=2048x1&size_mode=5)
 
 ### Description
 The report is built out of a [Dash](https://plot.ly/products/dash/) example. It is fully automated and updates on a monthly basis. It allows companies to study multiple competitors and company locations without strenuous user input. It is the first interactive report of its kind. It is in PDF style, making it easily digestible and also easy to print for meetings. 
