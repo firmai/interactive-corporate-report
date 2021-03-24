@@ -234,7 +234,7 @@ requests-ftp==0.3.1
 reverse-geocoder==1.5.1
 rope==0.10.7
 rpy2==2.9.0
-rsa==3.4.2
+rsa==4.1
 ruamel-yaml==0.11.14
 s3transfer==0.1.10
 scikit-image==0.13.1
