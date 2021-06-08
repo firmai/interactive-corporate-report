@@ -62,7 +62,7 @@ pandas==0.21.0
 pandas-datareader==0.5.0
 pandocfilters==1.4.2
 pickleshare==0.7.4
-Pillow==4.2.1
+Pillow==8.2.0
 plotly==2.2.1
 psycopg2==2.7.3.1
 ptyprocess==0.5.2
