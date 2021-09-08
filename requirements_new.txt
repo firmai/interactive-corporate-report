@@ -179,7 +179,7 @@ pep8==1.7.0
 pexpect==4.2.1
 pg8000==1.10.6+24.gcd4b726
 pickleshare==0.7.4
-Pillow==4.2.1
+Pillow==8.3.2
 pipreqs==0.4.9
 plac==0.9.6
 plotly==2.2.1
