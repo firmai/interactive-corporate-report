@@ -13,7 +13,7 @@ attrs==17.4.0
 Automat==0.6.0
 aws-shell==0.1.1
 awscli==1.11.82
-Babel==2.5.0
+Babel==2.9.1
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.6.0
 bitarray==0.8.1

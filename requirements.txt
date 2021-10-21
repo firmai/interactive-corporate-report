@@ -1,5 +1,5 @@
 awscli==1.14.49
-Babel==2.5.0
+Babel==2.9.1
 boto==2.48.0
 boto3==1.6.2
 botocore==1.9.2
