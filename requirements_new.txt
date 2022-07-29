@@ -142,7 +142,7 @@ lxml==4.2.1
 MarkupSafe==1.0
 matplotlib==2.1.0
 mccabe==0.6.1
-mistune==0.8.1
+mistune==2.0.3
 mpmath==0.19
 msgpack-python==0.4.8
 msgraph==0.1.1
