@@ -28,7 +28,7 @@ breadability==0.1.20
 bz2file==0.98
 cachetools==2.0.1
 catboost==0.6.3
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 chest==0.2.3
